@@ -49,6 +49,9 @@
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath8">
               <path d="M-1215.8513 -1985.6747 L9810.1484 -1985.6747 L9810.1484 3981.3252 L-1215.8513 3981.3252 L-1215.8513 -1985.6747 Z"/>
             </clipPath>
+            <clipPath clipPathUnits="userSpaceOnUse" id="clipPath9">
+              <path d="M932.8137 -3052.834 L932.8137 7973.166 L-5034.1865 7973.166 L-5034.1865 -3052.834 L932.8137 -3052.834 Z"/>
+            </clipPath>
           </defs>
 <linearGradient gradientTransform="matrix(1 0 0 1 -370.2002 -614.5742)" x1="370.2002" x2="409.4502" gradientUnits="userSpaceOnUse" y1="655.0938" y2="655.0938" id="svg1.SVGID_1_">
 	<stop offset="0" style="stop-color:#4D4D4D"/>
@@ -10534,6 +10537,11 @@
       <text x="1517.9917" xml:space="preserve" y="-3506.5344" clip-path="url(#clipPath2)" font-family="sans-serif" stroke="none">NO</text>
       <path fill="none" d="M1416.6001 -3520.738 L1418.9907 -3110.2058" clip-path="url(#clipPath2)"/>
       <path d="M1419.0372 -3102.2061 L1423.9674 -3114.2349 L1418.9849 -3111.2058 L1413.9675 -3114.1768 Z" clip-path="url(#clipPath2)" stroke="none"/>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(0,-1,1,0,3052.8339,932.8137)" stroke-linecap="butt">
+      <text x="2" xml:space="preserve" y="13.1406" clip-path="url(#clipPath9)" stroke="none">YES</text>
+    </g>
+    <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,1674,4231)" stroke-linecap="butt">
       <path fill="none" d="M1376.5013 -3650.8 L1262.4214 -3650.8 L1262.4214 -3638.8159" clip-path="url(#clipPath2)"/>
       <path d="M1262.4214 -3630.8159 L1267.4214 -3642.8159 L1262.4214 -3639.8159 L1257.4214 -3642.8159 Z" clip-path="url(#clipPath2)" stroke="none"/>
       <path fill="none" d="M1262.4214 -3563.8264 L1262.4214 -3540.6907 L1368.5013 -3540.6907" clip-path="url(#clipPath2)"/>
